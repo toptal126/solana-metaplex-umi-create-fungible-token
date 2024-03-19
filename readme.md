@@ -18,3 +18,7 @@ In order to create and upload SPL fungible token to solana network, you just nee
 npm install
 ts-node mint.ts
 ```
+
+## Authors
+
+- [@toptal126](https://www.github.com/toptal126)
